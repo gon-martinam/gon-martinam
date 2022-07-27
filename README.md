@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <img src="https://github.com/gon99martin/gon99martin/blob/main/header.png" alt="banner that says Gonzalo">
 
 - 🔭 I’m currently working on creating my personal portfolio so that I can make my knowledge known and share it with the community.
