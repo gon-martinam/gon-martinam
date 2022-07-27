@@ -1,6 +1,6 @@
 <img src="https://github.com/gon99martin/gon99martin/blob/main/header.png" alt="banner that says Gonzalo">
 
-<img align="right" src="https://github.com/gon99martin/gon99martin/blob/main/octocat_gonzalo.png" width="200" height="200">
+<img align="right" src="https://github.com/gon99martin/gon99martin/blob/main/octocat_gonzalo.png" width="300" height="300">
 
 - 🔭 I’m currently working on creating my personal portfolio so that I can make my knowledge known and share it with the community.
 - 🌱 I’m currently learning new Machine Learning, visualization and Deepl Learning techniques.
