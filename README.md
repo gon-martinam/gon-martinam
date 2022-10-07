@@ -13,6 +13,9 @@
 
 <br/>  
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<br/>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -101,11 +104,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=gon99martin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gon99martin&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gon99martin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<br/>
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 <br/>
 
