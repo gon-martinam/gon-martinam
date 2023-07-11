@@ -1,4 +1,4 @@
-# Hi 👋 I'm Gonzalo
+### Hi 👋 I'm Gonzalo
 ### MSc in Applied Artificial Intelligence 🤖
 ---
 
