@@ -1,5 +1,4 @@
-# Hi 👋 I'm Gonzalo
-### MSc in Applied Artificial Intelligence 🤖
+# Hi 👋 I'm Gonzalo | ### MSc in Applied Artificial Intelligence 🤖
 ---
 
 <!--<img src="https://github.com/gon99martin/gon99martin/blob/main/header.png" alt="banner that says Gonzalo">-->
