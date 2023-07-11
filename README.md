@@ -1,6 +1,6 @@
-<h1 style="border-bottom: none;">Hi 👋 I'm Gonzalo</h1>
+# Hi 👋 I'm Gonzalo
 ### MSc in Applied Artificial Intelligence 🤖
----
+
 
 <!--<img src="https://github.com/gon99martin/gon99martin/blob/main/header.png" alt="banner that says Gonzalo">-->
 <img src="https://github.com/gon99martin/gon99martin/blob/main/header-magic.png">
