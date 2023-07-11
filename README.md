@@ -1,4 +1,4 @@
-Hi 👋 I'm Gonzalo
+# Hi 👋 I'm Gonzalo
 ---
 
 <!--<img src="https://github.com/gon99martin/gon99martin/blob/main/header.png" alt="banner that says Gonzalo">-->
