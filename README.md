@@ -3,9 +3,8 @@
 <img align="right" src="https://github.com/gon99martin/gon99martin/blob/main/octocat-panda.png" width="300" height="300">
 
 - 🔭 I’m currently working on creating my personal portfolio so that I can make my knowledge known and share it with the community.
-- 🌱 I’m currently learning new Machine Learning, visualization and Deepl Learning techniques.
-- 👯 I’m looking to collaborate on projects that improve the quality of life of society or help to understand it.
-- 💬 Ask me about whatever you may need!
+- 🌱 I’m currently improving my knowledge in Large Language Models (LLMs) and the use of Langchain.
+<br/>
 - 📫 How to reach me: [Gonzalo's Bento](https://bento.me/gon-martinam)
 - ⚡ Fun fact: "If you torture data long enough, it will confess to anything!"
 
