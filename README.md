@@ -1,4 +1,4 @@
-### Hi 👋 I'm Gonzalo
+<h1 style="border-bottom: none;">Hi 👋 I'm Gonzalo</h1>
 ### MSc in Applied Artificial Intelligence 🤖
 ---
 
