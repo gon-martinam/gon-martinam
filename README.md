@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on creating my personal portfolio so that I can make my knowledge known and share it with the community.
 - 🌱 I’m currently improving my knowledge in Large Language Models (LLMs) and the use of Langchain.
-<br/>
+
 - 📫 How to reach me: [Gonzalo's Bento](https://bento.me/gon-martinam)
 - ⚡ Fun fact: "If you torture data long enough, it will confess to anything!"
 
