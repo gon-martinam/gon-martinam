@@ -1,7 +1,7 @@
 # Hi 👋 I'm Gonzalo
 
 <!--<img src="https://github.com/gon99martin/gon99martin/blob/main/header.png" alt="banner that says Gonzalo">-->
-<img src="https://github.com/gon99martin/gon99martin/blob/main/header_github_gonzalo.png">
+<img src="https://github.com/gon99martin/gon99martin/blob/main/github_header_gonzalo.svg">
 
 <img align="right" src="https://github.com/gon99martin/gon99martin/blob/main/octocat-panda.png" width="300" height="300">
 
