@@ -3,7 +3,7 @@
 <!--<img src="https://github.com/gon99martin/gon99martin/blob/main/header.png" alt="banner that says Gonzalo">-->
 <img src="https://github.com/gon99martin/gon99martin/blob/main/github_header_g.svg">
 
-<img align="right" src="https://github.com/gon99martin/gon99martin/blob/main/octocat-panda.png" width="300" height="300">
+<img align="right" src="https://github.com/gon99martin/gon99martin/blob/main/phoenix.png" width="300" height="300">
 
 - 🔭 I’m currently working on creating my personal portfolio so that I can make my knowledge known and share it with the community.
 - 🌱 I’m currently improving my knowledge in Large Language Models (LLMs) and the use of Langchain.
