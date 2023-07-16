@@ -5,8 +5,6 @@
 
 <p>Experienced in Computer Science, Business Administration, and Applied Artificial Intelligence, I'm passionate about leveraging cutting-edge technologies to drive innovation and create business value. With a Master's degree in Applied Artificial Intelligence, I have a solid foundation in machine learning, data analysis, and algorithm development. My expertise in computer science, combined with my business acumen, allows me to bridge the gap between technology and business, providing comprehensive solutions to complex challenges.
 
-Even in the early stages of my career, I've continuously improved and demonstrated a strong aptitude for data science and AI development. My entrepreneurial spirit has also led me to explore opportunities to develop my own AI-based products and services, driving innovation and creating impact.
-
 With a growth mindset and a passion for staying up-to-date with the latest advancements in the field, I'm always eager to tackle new challenges and contribute to the field of data science and AI.</p>
 
 <img align="right" src="https://github.com/gon99martin/gon99martin/blob/main/llama.png" width="300" height="300">
